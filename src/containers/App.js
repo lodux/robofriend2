@@ -48,12 +48,10 @@ class App extends React.Component {
 		</Scroll>
 	   </div>
 	   );
-	);
+	
     }
-	
-	
 }
-}
+
 
 	
 
